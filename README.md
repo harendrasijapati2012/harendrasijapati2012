@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">
+  <code>Building Nepal 🇳🇵</code>
+</h1>
 
-<!--
-**harendrasijapati2012/harendrasijapati2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  A passionate software developer from Nepal 🇳🇵 building scalable backend systems & modern applications
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harendrasijapati2012&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+```yaml
+name: Harendra Sijapati
+role: Full Stack Developer
+location: Nepal 🇳🇵
+
+current_focus:
+  - Backend Development
+  - AI & Machine Learning
+  - Mobile Applications
+  - System Design
+
+tech_stack:
+  - Python
+  - FastAPI
+  - Django
+  - React
+  - Flutter
+  - PostgreSQL
+  - Redis
+  - Celery
+  - Docker
+  - Git
+
+currently_building:
+  - Loksewa PSC Nepal App
+  - AI-powered learning systems
+  - Developer tools
+
+fun_fact:
+  - I enjoy building things that solve real problems 🚀
